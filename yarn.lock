@@ -1825,12 +1825,12 @@
     lodash "^4.17.21"
     papaparse "^5.4.1"
 
-"@teselagen/range-utils@^0.1.12":
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/@teselagen/range-utils/-/range-utils-0.1.12.tgz#346e1dc89b517154474ca1771bc80b3e31c6137b"
-  integrity sha512-V1xGchCowzXdKlvntsif5r3jx4squvlM542sjaj5uSV/UWOj0NBuzcD/ylX6pKHTXTip6CXt3aMbyCp6cL7YtA==
+"@teselagen/range-utils@^0.3.13":
+  version "0.3.13"
+  resolved "https://registry.yarnpkg.com/@teselagen/range-utils/-/range-utils-0.3.13.tgz#8b596260dd70d003a895e9693ecc5aa77a2b7b50"
+  integrity sha512-iYxK2WThxbU3tE+7sfjvYWScJ6Tq0o+dx1FydFSBFGymQvQTkOxsw6i8SEbMxzG6ultEauhffL7vO6j6MfYm2g==
   dependencies:
-    lodash "^4.17.21"
+    lodash-es "^4.17.21"
 
 "@teselagen/react-list@0.8.18", "@teselagen/react-list@^0.8.18":
   version "0.8.18"
@@ -8335,7 +8335,7 @@ locate-path@^6.0.0:
   dependencies:
     p-locate "^5.0.0"
 
-lodash-es@^4.17.15, lodash-es@^4.2.1:
+lodash-es@^4.17.15, lodash-es@^4.17.21, lodash-es@^4.2.1:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
   integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==

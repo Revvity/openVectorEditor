@@ -38,7 +38,7 @@
     "@hello-pangea/dnd": "^16.2.0",
     "@risingstack/react-easy-state": "^6.3.0",
     "@teselagen/bio-parsers": "^0.1.13",
-    "@teselagen/range-utils": "^0.1.12",
+    "@teselagen/range-utils": "^0.3.13",
     "@teselagen/react-list": "^0.8.18",
     "@teselagen/sequence-utils": "^0.1.12",
     "@teselagen/ui": "^0.0.2",
